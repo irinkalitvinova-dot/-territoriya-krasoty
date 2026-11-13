@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Территория красоты">
+  <rect width="64" height="64" rx="14" fill="#F2C7A5"/>
+  <g fill="none" stroke="#3B2230" stroke-width="2" stroke-linecap="round">
+    <path d="M10 40c4-10 14-14 24-12s18 8 20 16"/>
+    <path d="M14 46c4-7 12-10 20-8s14 6 16 12" opacity=".6"/>
+    <path d="M20 52c3-4 8-6 14-5s10 3 12 6" opacity=".35"/>
+  </g>
+  <path d="M32 10c-7 0-12 5-12 11 0 8 12 19 12 19s12-11 12-19c0-6-5-11-12-11z" fill="#C63D3A"/>
+  <circle cx="32" cy="21" r="4.5" fill="#FFF3EC"/>
+</svg>

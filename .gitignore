@@ -1,0 +1,19 @@
+# Не попадает на GitHub и на сайт
+
+# Прошлая версия макета и черновики
+_backup/
+
+# Настройки локального просмотра
+.claude/
+
+# Старая версия фото салона с чужой вывеской
+photos/*.bak
+
+# Фото, которых нет на странице
+photos/svadebnye-pricheski-kollazh.png
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
